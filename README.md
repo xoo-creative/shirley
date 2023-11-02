@@ -1,6 +1,6 @@
 # shirley
 
-Smart assistant for researchers that documents your experiments in fine detail and offers quick help for your lab work. Delivered through [Ray-Ban Meta smart glasses](https://www.ray-ban.com/canada/en/ray-ban-meta-smart-glasses).
+Smart assistant for wet-lab researchers that documents your experiments in fine detail and offers quick help for your lab work. Delivered through [Ray-Ban Meta smart glasses](https://www.ray-ban.com/canada/en/ray-ban-meta-smart-glasses).
 
 ## How to use
 
@@ -20,7 +20,7 @@ Using experiment logs, `shirley` can extract a dynamic, step-by-step procedure f
 
 ### Personal Helper
 
-`shirley` can also help with common and quick calculations required during your experiment, like dilution volumes and unit conversions. `shirley` can also set multiple timers and reminders with a simple voice command.
+`shirley` can also help with common and quick calculations required during your experiment, like dilution volumes and unit conversions. You can also set multiple timers and reminders with a simple voice command to `shirley`.
 
 ### Build Institutional Knowledge
 
