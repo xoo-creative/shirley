@@ -1,6 +1,6 @@
 # shirley
 
-Smart assistant for researchers that documents your experiments in fine detail and helps with quick calculations. Ultimately will be incorporated into an AR app within the Ray-Ban Meta smart glasses, but a web-app in the intermediary.
+Smart assistant for researchers that documents your experiments in fine detail and offers quick help for your lab work. Delivered through [Ray-Ban Meta smart glasses](https://www.ray-ban.com/canada/en/ray-ban-meta-smart-glasses).
 
 ## How to use
 
